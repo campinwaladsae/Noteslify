@@ -51,7 +51,7 @@ const Sidenav = () => {
           </span>
 
           <div className="text logo-text">
-            <span className="name">Noteslify</span>
+            <span className="name">Jotting</span>
             <span className="profession">By DVS Tech Labs</span>
           </div>
         </div>

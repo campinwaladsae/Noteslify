@@ -2,7 +2,7 @@
 // const mongoURI = "mongodb+srv://dbstring";
 
 // const connectToMongo = () => {
-//     mongoose.connect(mongoURI, { dbName: 'noteslify' }, (err) => {
+//     mongoose.connect(mongoURI, { dbName: 'Jotting' }, (err) => {
 //         console.log("Connected To Mongo Successfully!!");
 //         console.log(err);
 //     })
@@ -29,7 +29,7 @@ const connectToMongo = async (retryCount) => {
     const count = retryCount ?? 0;
 
     try {
-        await mongoose.connect(mongoURI, { dbName: 'noteslify' });
+        await mongoose.connect(mongoURI, { dbName: 'Jotting' });
         console.info('Connected To Mongo Successfully!!');
 
         return;

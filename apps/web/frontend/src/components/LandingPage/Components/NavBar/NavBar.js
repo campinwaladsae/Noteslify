@@ -13,7 +13,7 @@ const NavBar = () => {
         <span className="logo">
           <Link>
             <img src="favicon.png" alt="icon" className="logo-img" />
-            <h3 className="logo-text">Noteslify</h3>
+            <h3 className="logo-text">Jotting</h3>
           </Link>
         </span>
         <div
@@ -34,7 +34,7 @@ const NavBar = () => {
             </a>
           </li>
           <li className="list">
-            <a href="https://github.com/dvstechlabs/Noteslify">
+            <a href="https://github.com/dvstechlabs/Jotting">
               <li>Github</li>
             </a>
           </li>

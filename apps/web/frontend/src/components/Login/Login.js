@@ -88,8 +88,8 @@ const Login = () => {
     return (
         <>
             <Helmet>
-                <title>Noteslify | Login</title>
-                <meta name="description" content="Noteslify. Login to your Dashboard and access your files from here." />
+                <title>Jotting | Login</title>
+                <meta name="description" content="Jotting. Login to your Dashboard and access your files from here." />
             </Helmet>
             <div className="l-form">
                 <div className="shape1"></div>

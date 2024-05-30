@@ -114,8 +114,8 @@ const Account = () => {
   return (
     <>
       <Helmet>
-        <title>Noteslify | My Account</title>
-        <meta name="description" content="Manage Your Noteslify Account From Here." />
+        <title>Jotting | My Account</title>
+        <meta name="description" content="Manage Your Jotting Account From Here." />
       </Helmet>
       <LoadingBar
         color="#f11946"

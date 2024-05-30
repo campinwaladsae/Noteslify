@@ -12,10 +12,10 @@ const Pricing = () => {
   return (
     <div>
       <Helmet>
-        <title>Noteslify | Pricing</title>
+        <title>Jotting | Pricing</title>
         <meta
           name="description"
-          content="Noteslify. Pricing plans for our website."
+          content="Jotting. Pricing plans for our website."
         />
       </Helmet>
       <Cost dark={dark} />

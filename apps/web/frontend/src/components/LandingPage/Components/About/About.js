@@ -8,8 +8,8 @@ const About = () => {
             <div><img src="assets/mobile.png" alt="mobileimage" asset = "mobile-design"/></div>
         </div>
         <div data-aos="fade-right" className='flex desc'>
-          <h2>What is Noteslify?</h2>
-          <p>Noteslify gives you everything you need to keep life organized—great note taking, project planning, and easy ways to find what you need, when you need it. </p>
+          <h2>What is Jotting?</h2>
+          <p>Jotting gives you everything you need to keep life organized—great note taking, project planning, and easy ways to find what you need, when you need it. </p>
         </div>
         </div>
 

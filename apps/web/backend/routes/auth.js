@@ -319,7 +319,7 @@ router.post('/forgotpassword', [
     const options = {
         from: process.env.outlookEmail,
         to: req.body.email,
-        subject: 'Reset Password for Noteslify',
+        subject: 'Reset Password for Jotting',
         html: `You are receiving this email because you(maybe someone else) wanted to change your password.\nIf it was not you, ignore this email.If you requested to change your password, please go to the following link: <a href='http://localhost:3000/resetpassword/${req.body.email}/${fpToken}'>Click Here</a>`
     };
 
@@ -513,7 +513,7 @@ router.delete('/deleteaccount', fetchuser, async (req, res) => {
         const options = {
             from: process.env.outlookEmail,
             to: theUser.email,
-            subject: 'Delete Noteslify Account',
+            subject: 'Delete Jotting Account',
             html: `You are receiving this email because you(maybe someone else) wanted to delete your account permanently.\nIf it was not you, ignore this email.If you requested to delete your account, please go to the following link: <a href='http://localhost:3000/deleteacocunt/${theUser.email}/${daToken}'>Click Here</a>`
         };
     

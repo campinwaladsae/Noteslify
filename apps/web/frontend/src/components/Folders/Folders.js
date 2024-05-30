@@ -110,10 +110,10 @@ const Folders = () => {
   return (
     <>
       <Helmet>
-        <title>Noteslify | Dashboard</title>
+        <title>Jotting | Dashboard</title>
         <meta
           name="description"
-          content="Noteslify. View your files and dashboard here."
+          content="Jotting. View your files and dashboard here."
         />
       </Helmet>
       <LoadingBar

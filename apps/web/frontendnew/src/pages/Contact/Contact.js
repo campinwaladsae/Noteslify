@@ -11,10 +11,10 @@ const Contact = () => {
   return (
     <>
       <Helmet>
-        <title>Noteslify | Contact</title>
+        <title>Jotting | Contact</title>
         <meta
           name="description"
-          content="Noteslify. Pricing plans for our website."
+          content="Jotting. Pricing plans for our website."
         />
       </Helmet>
       <ContactContainer />

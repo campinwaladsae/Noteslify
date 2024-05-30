@@ -31,8 +31,8 @@ const ForgotPassword = () => {
   return (
     <div>
       <Helmet>
-        <title>Noteslify | Forgot Password</title>
-        <meta name="description" content="Noteslify. Reset Your Password From Here." />
+        <title>Jotting | Forgot Password</title>
+        <meta name="description" content="Jotting. Reset Your Password From Here." />
       </Helmet>
       <div className="form-wrapper">
         <h1>Forgot Password?</h1>

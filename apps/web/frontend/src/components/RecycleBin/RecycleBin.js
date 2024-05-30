@@ -91,8 +91,8 @@ const RecycleBin = () => {
   return (
     <>
       <Helmet>
-        <title>Noteslify | Recycle Bin</title>
-        <meta name="description" content="Noteslify. Clear Or Restore Your Files from Bin." />
+        <title>Jotting | Recycle Bin</title>
+        <meta name="description" content="Jotting. Clear Or Restore Your Files from Bin." />
       </Helmet>
       <LoadingBar
         color='#f11946'

@@ -12,7 +12,7 @@ const Login = () => {
   return (
     <>
       <Helmet>
-        <title>Noteslify | Home</title>
+        <title>Jotting | Home</title>
         <meta
           name="description"
           content="Your Privacy Friendly, Open Source. Alternative to EverNote."

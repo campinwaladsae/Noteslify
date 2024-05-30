@@ -10,8 +10,8 @@ const ErrorPage = () => {
   return (
     <>
       <Helmet>
-        <title>Noteslify | Error 404 Not Found</title>
-        <meta name="description" content="Noteslify. The page your looking for was not found." />
+        <title>Jotting | Error 404 Not Found</title>
+        <meta name="description" content="Jotting. The page your looking for was not found." />
       </Helmet>
     <Navbar/>
     <div className='errorpage_container'>

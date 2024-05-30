@@ -16,11 +16,11 @@ const MobileNav = ({ mobileMenuOpen, setMobileMenuOpen, navigation }) => {
         <div className="flex h-9 items-center justify-between">
           <div className="flex">
             <a href="/" className="-m-1.5 p-1.5">
-              <span className="sr-only">Noteslify</span>
+              <span className="sr-only">Jotting</span>
               <img
                 className="h-8"
-                src="https://cdn.noteslify.stonecss.com/cdn/assets/logo.png"
-                alt="noteslifylogo"
+                src="https://cdn.Jotting.stonecss.com/cdn/assets/logo.png"
+                alt="Jottinglogo"
               />
             </a>
           </div>

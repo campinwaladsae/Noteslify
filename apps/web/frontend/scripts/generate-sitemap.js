@@ -1,6 +1,6 @@
 const fs = require('fs');
 const { buildSitemaps } = require('express-sitemap-xml');
-const SITE_URL = 'https://noteslify.stonecss.com';
+const SITE_URL = 'https://Jotting.stonecss.com';
 // need to find a way to do it dynamically
 const routesData = ['/', '/login', '/signup', '/notes', '/contact', '/myaccount'];
 

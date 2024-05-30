@@ -13,7 +13,7 @@ const TopNav = () => {
     { name: "Features", href: "/#features" },
     { name: "Pricing", href: "/pricing" },
     { name: "Contact", href: "/contact" },
-    // { name: "Dashboard", href: "https://noteslifysystem.stonecss.com/Notes" },
+    // { name: "Dashboard", href: "https://Jottingsystem.stonecss.com/Notes" },
     { name: "Dashboard", href: "/notes" },
   ];
 
@@ -58,11 +58,11 @@ const TopNav = () => {
               aria-label="Global"
             >
               <Link to="/" className="-m-1.5 p-1.5">
-                <span className="sr-only">Noteslify</span>
+                <span className="sr-only">Jotting</span>
                 <img
                   className="h-8"
-                  src="https://cdn.noteslify.stonecss.com/cdn/assets/logo.png"
-                  alt="noteslifylogo"
+                  src="https://cdn.Jotting.stonecss.com/cdn/assets/logo.png"
+                  alt="Jottinglogo"
                 />
               </Link>
               {/* theme toggle button */}

@@ -215,8 +215,8 @@ const Notes = () => {
   return (
     <>
       <Helmet>
-        <title>Noteslify | Dashboard</title>
-        <meta name="description" content="Noteslify. View your files and dashboard here." />
+        <title>Jotting | Dashboard</title>
+        <meta name="description" content="Jotting. View your files and dashboard here." />
       </Helmet>
       <LoadingBar
         color='#f11946'

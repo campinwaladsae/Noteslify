@@ -1,8 +1,8 @@
-# Noteslify
+# Jotting
 
 ## Your Privacy Friendly, Open Source. Alternative to EverNote.
 
-![Border](images/noteslifylogo.png)
+![Border](images/Jottinglogo.png)
 
 
 **Made with ❤ By ByteMakers**
@@ -11,7 +11,7 @@ A Notes Taking Web App Built With Simplicity.
 
 Please give this repo a ⭐ it really helps us!
 
-Visit At <a href="https://noteslify.stonecss.com" target="_blank">noteslify.stonecss.com</a> Using v1.3.8-beta ( Latest v1.3.8-beta, Latest Stable v1.4.0 )
+Visit At <a href="https://Jotting.stonecss.com" target="_blank">Jotting.stonecss.com</a> Using v1.3.8-beta ( Latest v1.3.8-beta, Latest Stable v1.4.0 )
 
 Our System Statuspage is Available At <a href="https://dvstechlabs.statuspage.io" target="_blank">dvstechlabs.statuspage.io</a>
 
@@ -19,7 +19,7 @@ Our System Statuspage is Available At <a href="https://dvstechlabs.statuspage.io
 
 ## Team
 
-The Developer Team behind Noteslify. This project wouldn't have been possible without them and our awesome contributors.
+The Developer Team behind Jotting. This project wouldn't have been possible without them and our awesome contributors.
 
 - [@devarshishimpi](https://www.github.com/devarshishimpi) [ Owner, Developer Team, Support Team ]
 - [@abhinandanwadwa](https://github.com/abhinandanwadwa) [ Developer Team ]
@@ -43,8 +43,8 @@ Please adhere to this project's [`Code of Conduct`](./CODE_OF_CONDUCT.md).
 
 | Name                       | Path                                               | Description                                                       |
 | -------------------------- | -------------------------------------------------- | ----------------------------------------------------------------- |
-| `@noteslify/web`           | [/apps/web](/apps/web)                             | Web/Desktop/Docker clients                                        |
-| `@noteslify/mobile`        | [/apps/mobile](/apps/mobile)                       | Android/iOS clients                                               |
+| `@Jotting/web`           | [/apps/web](/apps/web)                             | Web/Desktop/Docker clients                                        |
+| `@Jotting/mobile`        | [/apps/mobile](/apps/mobile)                       | Android/iOS clients                                               |
 
 ## Deployment
 
@@ -120,7 +120,7 @@ If you have any feedback, please reach out to us at devarshishimpi@gmail.com
 
 Our awesome stargazers! Thank you for your support!
 
-[![Stargazers repo roster for @dvstechlabs/Noteslify](https://reporoster.com/stars/dvstechlabs/Noteslify)](https://github.com/dvstechlabs/Noteslify/stargazers)
+[![Stargazers repo roster for @dvstechlabs/Jotting](https://reporoster.com/stars/dvstechlabs/Jotting)](https://github.com/dvstechlabs/Jotting/stargazers)
 
 ## Support
 

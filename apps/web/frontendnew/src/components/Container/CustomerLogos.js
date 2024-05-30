@@ -5,7 +5,7 @@ const CustomerLogos = ({ dark }) => {
         <section>
         <div className="py-8 lg:py-16 mx-auto max-w-screen-xl px-4">
             <h2 className="dark:text-white mb-4 lg:mb-6 text-3xl font-extrabold tracking-tight leading-tight text-center text-gray-900 md:text-4xl">Our customers make us great!</h2>
-            <p className="font-medium text-gray-500 lg:mb-8 md:text-lg lg:text-2xl text-center">Discover how people at top companies streamline their note-taking with Noteslify.</p>
+            <p className="font-medium text-gray-500 lg:mb-8 md:text-lg lg:text-2xl text-center">Discover how people at top companies streamline their note-taking with Jotting.</p>
             <div className="mt-16 grid grid-cols-2 gap-8 text-gray-500 sm:gap-12 md:grid-cols-3 lg:grid-cols-6">
                 <a href="https://link.stonecss.com/airbnb" className="flex justify-center items-center">
                     <svg className="h-9 dark:hover:text-gray-300 hover:text-gray-900" viewBox="0 0 125 35" fill="currentColor" xmlns="http://www.w3.org/2000/svg">

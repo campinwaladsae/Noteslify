@@ -50,8 +50,8 @@ const Deleteaccount = () => {
 
       <div>
         <Helmet>
-          <title>Noteslify | Delete Account</title>
-          <meta name="description" content="Noteslify. Reset Your Password From Here." />
+          <title>Jotting | Delete Account</title>
+          <meta name="description" content="Jotting. Reset Your Password From Here." />
         </Helmet>
         <div className="form-wrapper">
           <h1>Delete User?</h1>

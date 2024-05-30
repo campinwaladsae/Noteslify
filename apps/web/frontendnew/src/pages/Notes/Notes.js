@@ -4,10 +4,10 @@ const Notes = () => {
   return (
     <div>
       <Helmet>
-        <title>Noteslify | Notes</title>
+        <title>Jotting | Notes</title>
         <meta
           name="description"
-          content="Noteslify. Pricing plans for our website."
+          content="Jotting. Pricing plans for our website."
         />
       </Helmet>
     </div>

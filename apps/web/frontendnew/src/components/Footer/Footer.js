@@ -18,7 +18,7 @@ const Footer = () => {
               <div className="mb-10 w-full">
                 <a href="/" className="grid grid-cols-2 mb-6 max-w-[160px]">
                   <img
-                    src="https://cdn.noteslify.stonecss.com/cdn/assets/logo.png"
+                    src="https://cdn.Jotting.stonecss.com/cdn/assets/logo.png"
                     alt="logo"
                     className="w-6/12"
                   />
